@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Arundhoti%20Kar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Arundhoti%20Kar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h2 align="center">MERN Stack Developer | Web Developer</h2>
@@ -58,22 +58,6 @@ Currently, I am improving my problem-solving skills while exploring modern web t
   <a href="https://linkedin.com/in/arundhoti-kar-a72258280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arundhotikar&show_icons=true&theme=react&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arundhotikar&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arundhotikar&layout=compact&theme=react&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
