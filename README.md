@@ -43,30 +43,15 @@ Currently, I am focused on improving my problem-solving skills and exploring ful
 
 ## 🌐 Social Links
 <p>
-  <a href="https://github.com/your-github-username">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://www.facebook.com/ArundhotiKar.PUST.CSE14/">
+    <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="https://linkedin.com/in/arundhoti-kar-a72258280/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react" />
-</p>
-
----
 
 ⭐ *Always eager to learn, build, and grow as a developer.*
