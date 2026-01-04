@@ -1,40 +1,49 @@
-<!-- Banner Image -->
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:074F66,100:0a9396&height=200&section=header&text=Arundhoti%20Kar&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Arundhoti%20Kar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">Frontend Developer | Web Developer</h2>
+<h2 align="center">MERN Stack Developer | Web Developer</h2>
+
+<p align="center">
+📍 Bangladesh • 🎓 CSE Student • 💻 Web Enthusiast
+</p>
 
 ---
 
 ## 👩‍💻 About Me
-I am a Computer Science student passionate about frontend development and modern web technologies.  
-I enjoy building responsive, user-friendly web applications using React and Next.js.  
-Currently, I am focused on improving my problem-solving skills and exploring full-stack development.  
+I am a Computer Science student with a strong interest in MERN stack development.  
+I enjoy building clean, responsive, and user-friendly web applications.  
+Currently, I am improving my problem-solving skills while exploring modern web technologies.  
 
 ---
 
 ## 🚀 Current Activities
-- 🌱 Exploring **Next.js** and modern React patterns  
-- 🏗️ Working on a **Tourism Website** project  
-- 💡 Practicing **Competitive Programming & DSA**  
-- 📚 Learning about **Web Performance & UI Design**
+- 🌱 Exploring **Next.js** and advanced React concepts  
+- 🏗️ Developing a **Tourism Website** using MERN stack  
+- 💡 Practicing **Competitive Programming & Data Structures**  
+- 📚 Learning about **Web Performance, UI/UX & APIs**
 
 ---
 
 ## 🛠️ Skills
 
-### 🎨 Frontend
+### 🌐 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-### ⚙️ Backend (Basic)
+### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
 </p>
 
-### 🧰 Tools & Others
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🧰 Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
@@ -43,15 +52,30 @@ Currently, I am focused on improving my problem-solving skills and exploring ful
 
 ## 🌐 Social Links
 <p>
-  <a href="https://www.facebook.com/ArundhotiKar.PUST.CSE14/">
-    <img src="https://skillicons.dev/icons?i=facebook" />
+  <a href="https://www.facebook.com/ArundhotiKar.PUST.CSE14/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/arundhoti-kar-a72258280/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://linkedin.com/in/arundhoti-kar-a72258280/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+## 📊 GitHub Stats
 
-⭐ *Always eager to learn, build, and grow as a developer.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArundhotiKar&show_icons=true&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArundhotiKar&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArundhotiKar&layout=compact&theme=react&hide_border=true" />
+</p>
+
+---
+
+⭐ *Always eager to learn, build, and grow as a MERN Stack Developer.*
