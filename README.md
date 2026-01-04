@@ -65,15 +65,15 @@ Currently, I am improving my problem-solving skills while exploring modern web t
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArundhotiKar&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arundhotikar&show_icons=true&theme=react&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArundhotiKar&theme=react&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=arundhotikar&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArundhotiKar&layout=compact&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arundhotikar&layout=compact&theme=react&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
