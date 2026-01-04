@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-📧 <a href="mailto:your-professional-email@gmail.com"arundhotikar60@gmail.com</a>  
+📧 <a href="mailto:arundhotikar60@gmail.com">arundhotikar60@gmail.com</a>  
 📞 +8801793003885
 </p>
 
